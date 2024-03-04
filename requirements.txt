@@ -10,3 +10,5 @@ matplotlib
 scipy
 vega_datasets
 ipyvolume
+plotly
+ipywidgets
